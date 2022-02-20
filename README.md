@@ -17,3 +17,5 @@ spring.datasource.password=12345678
  
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5InnoDBDialect
+
+hibernate-release-5.6.5.Final ---> download
